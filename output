@@ -1,0 +1,86 @@
+nohup: ignoring input
+
+> cities@0.0.0 start /opt/bitnami/apache2/htdocs/PROJECTS/CS201R/node/cities
+> node ./bin/www
+
+[0mGET / [36m304 [0m11.978 ms - -[0m
+[0mGET /style.css [36m304 [0m2.989 ms - -[0m
+Alpine
+Altamont
+Alton
+Altonah
+American Fork
+Aneth
+Annabella
+Antimony
+Aurora
+Axtell
+[0mGET /getcity?q=A [36m304 [0m13.279 ms - -[0m
+Alpine
+Altamont
+Alton
+Altonah
+American Fork
+Aneth
+Annabella
+Antimony
+Aurora
+Axtell
+[0mGET /getcity?q=A [36m304 [0m3.005 ms - -[0m
+Alpine
+Altamont
+Alton
+Altonah
+[0mGET /getcity?q=Al [36m304 [0m1.429 ms - -[0m
+Alpine
+Altamont
+Alton
+Altonah
+[0mGET /getcity?q=Al [36m304 [0m4.368 ms - -[0m
+[0mGET / [36m304 [0m0.782 ms - -[0m
+[0mGET /style.css [36m304 [0m0.507 ms - -[0m
+[0mGET /style.css [32m200 [0m4.763 ms - 340[0m
+Panguitch
+Paradise
+Paragonah
+Park City
+Park Valley
+Parowan
+Payson
+Peoa
+Pine Valley
+Pleasant Grove
+Plymouth
+Portage
+Price
+Providence
+Provo
+[0mGET /getcity?q=P [36m304 [0m1.710 ms - -[0m
+Panguitch
+Paradise
+Paragonah
+Park City
+Park Valley
+Parowan
+Payson
+Peoa
+Pine Valley
+Pleasant Grove
+Plymouth
+Portage
+Price
+Providence
+Provo
+[0mGET /getcity?q=P [36m304 [0m1.325 ms - -[0m
+Price
+Providence
+Provo
+[0mGET /getcity?q=Pr [36m304 [0m1.684 ms - -[0m
+Providence
+Provo
+[0mGET /getcity?q=Pro [36m304 [0m2.890 ms - -[0m
+Providence
+Provo
+[0mGET /getcity?q=Prov [36m304 [0m1.826 ms - -[0m
+Provo
+[0mGET /getcity?q=Provo [36m304 [0m2.038 ms - -[0m
